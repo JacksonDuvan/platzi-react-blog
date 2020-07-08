@@ -1,10 +1,12 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://platzi-react-blog.herokuapp.com",
+    "contentApiKey": "3fc5f72858d3104b22e553bdc7",
+    "version": "v2"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://platzi-react-blog.herokuapp.com",
+    "contentApiKey": "3fc5f72858d3104b22e553bdc7",
+    "version": "v2"
   }
-}
+} 
